@@ -1,5 +1,4 @@
-# Hola-Mundo
-Mi primer repositorio
+
 # Practica 1
 # Mis Materias
 ## Termodinamica
